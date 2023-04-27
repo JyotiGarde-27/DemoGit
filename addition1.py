@@ -1,6 +1,6 @@
 def addition(a, b, c):
-	c = a + b
-	return c
+	d = a + b + c
+	return d
 
-x = add(5,3)
+x = add(5, 3, 7)
 print(x)
